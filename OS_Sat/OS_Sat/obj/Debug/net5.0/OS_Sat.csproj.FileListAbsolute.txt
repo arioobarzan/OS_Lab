@@ -1,0 +1,16 @@
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\OS_Sat.exe
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\OS_Sat.deps.json
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\OS_Sat.runtimeconfig.json
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\OS_Sat.runtimeconfig.dev.json
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\OS_Sat.dll
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\ref\OS_Sat.dll
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\bin\Debug\net5.0\OS_Sat.pdb
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.AssemblyInfoInputs.cache
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.AssemblyInfo.cs
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.dll
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\ref\OS_Sat.dll
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.pdb
+C:\Users\gheir\source\repos\OS_Sat\OS_Sat\obj\Debug\net5.0\OS_Sat.genruntimeconfig.cache
