@@ -18,7 +18,7 @@ namespace ConsoleApp5
             RightDown = 0x00000008,
             RightUp = 0x00000010
         }
-
+        /*
         [DllImport("user32.dll", EntryPoint = "SetCursorPos")]
         [return: MarshalAs(UnmanagedType.Bool)]
         private static extern bool SetCursorPos(int x, int y);
@@ -26,7 +26,7 @@ namespace ConsoleApp5
         [DllImport("user32.dll")]
         [return: MarshalAs(UnmanagedType.Bool)]
         private static extern bool GetCursorPos(out MousePoint lpMousePoint);
-
+        */
         [DllImport("user32.dll")]
         private static extern void mouse_event(int dwFlags, int dx, int dy, int dwData, int dwExtraInfo);
 
@@ -36,13 +36,17 @@ namespace ConsoleApp5
             {
                 int x = int.Parse(Console.ReadLine());
                 int y = int.Parse(Console.ReadLine());
-                SetCursorPosition(x, y);
-                MouseEvent(MouseEventFlags.RightDown);
-                MouseEvent(MouseEventFlags.RightUp);
+                mouse_event((int)MouseEventFlags.Move, x, y, 0, 0);
+                mouse_event((int)MouseEventFlags.RightDown, x, y, 0, 0);
+                mouse_event((int)MouseEventFlags.RightUp, x, y, 0, 0);
+                //SetCursorPosition(x, y);
+                //MouseEvent(MouseEventFlags.RightDown);
+                //MouseEvent(MouseEventFlags.RightUp);
             }
            
 
         }
+        /*
         public static void SetCursorPosition(int x, int y)
         {
             SetCursorPos(x, y);
@@ -86,5 +90,6 @@ namespace ConsoleApp5
                 Y = y;
             }
         }
+        */
     }
 }
