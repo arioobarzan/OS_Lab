@@ -1,0 +1,16 @@
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\Work_With_Files.exe
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\Work_With_Files.deps.json
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\Work_With_Files.runtimeconfig.json
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\Work_With_Files.runtimeconfig.dev.json
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\Work_With_Files.dll
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\ref\Work_With_Files.dll
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\bin\Debug\net5.0\Work_With_Files.pdb
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.AssemblyInfoInputs.cache
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.AssemblyInfo.cs
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.dll
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\ref\Work_With_Files.dll
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.pdb
+C:\Users\gheir\source\repos\Work_With_Files\Work_With_Files\obj\Debug\net5.0\Work_With_Files.genruntimeconfig.cache
