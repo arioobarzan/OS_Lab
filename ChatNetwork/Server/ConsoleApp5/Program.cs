@@ -56,7 +56,7 @@ namespace ConsoleApp5
             state.workSocket = client.Client;
             client.Client.BeginReceive(state.buffer, 0, StateObject.BufferSize, 0,
                         new AsyncCallback((new Program()).OnReceive), state);
-
+            
             while (true)
             {
                 input = Console.ReadLine();
