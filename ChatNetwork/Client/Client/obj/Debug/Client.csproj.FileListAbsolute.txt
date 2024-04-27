@@ -1,0 +1,7 @@
+C:\Users\Platinum\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Platinum\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\Platinum\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\Platinum\source\repos\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Platinum\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Platinum\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\Platinum\source\repos\Client\Client\obj\Debug\Client.pdb
