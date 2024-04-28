@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Platinum\\Documents\\GitHub\\OS_Lab\\Windows_API_Mouse\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {}
+    "C:\\Users\\gheir\\Documents\\GitHub1\\OS_Lab\\ChatNetwork\\Server\\ConsoleApp5\\ConsoleApp5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Platinum\\Documents\\GitHub\\OS_Lab\\Windows_API_Mouse\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {
+    "C:\\Users\\gheir\\Documents\\GitHub1\\OS_Lab\\ChatNetwork\\Server\\ConsoleApp5\\ConsoleApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Platinum\\Documents\\GitHub\\OS_Lab\\Windows_API_Mouse\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectUniqueName": "C:\\Users\\gheir\\Documents\\GitHub1\\OS_Lab\\ChatNetwork\\Server\\ConsoleApp5\\ConsoleApp5.csproj",
         "projectName": "ConsoleApp5",
-        "projectPath": "C:\\Users\\Platinum\\Documents\\GitHub\\OS_Lab\\Windows_API_Mouse\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
-        "packagesPath": "C:\\Users\\Platinum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Platinum\\Documents\\GitHub\\OS_Lab\\Windows_API_Mouse\\ConsoleApp5\\ConsoleApp5\\obj\\",
+        "projectPath": "C:\\Users\\gheir\\Documents\\GitHub1\\OS_Lab\\ChatNetwork\\Server\\ConsoleApp5\\ConsoleApp5.csproj",
+        "packagesPath": "C:\\Users\\gheir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gheir\\Documents\\GitHub1\\OS_Lab\\ChatNetwork\\Server\\ConsoleApp5\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Platinum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gheir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
