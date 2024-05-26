@@ -1,0 +1,12 @@
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Form1.resources
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\Database1.mdf
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\Database1_log.ldf
+C:\Users\gheir\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.customers.resources
